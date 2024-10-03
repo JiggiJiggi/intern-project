@@ -1,0 +1,95 @@
+[
+  {
+    "firstName": "hanan",
+    "lastName": "fadel",
+    "email": "test@gmail.com",
+    "password": "24d499749314a0588e213e2ed3cd4daf:64e50abaae8afa030170ef01f201afb6390c47a41e2998a59d2169f72f224bc2b0755726987ff5bf1d1eb17c9fc26dd012eccd4c3397d2bdf2e5f82ad9d3168a",
+    "role": "mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Chinedu",
+    "lastName": "Nwafor",
+    "email": "tester@gmail.com",
+    "password": "e0d9d3cb2cb44303de2e8068e46ad739:5dd39f462dfedb4c46aca4f79382f575a05b577240339799f233aed84704f473037574470a259eaec9bc581ae6cb7ab6ba791e5150315f86922bbe14575e7f8f",
+    "role": "mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Chinedu",
+    "lastName": "Nwafor",
+    "email": "patrickchinwaor@gmail.com",
+    "password": "6d2f0d87890cc338cc6035801d8e5cea:892a64fb105ba9d253e777e5cf874b7ce4db48efae5b9ae78eaa3f8fc32599be271f9eb552c769a6dfe2af2990500067ad59b30402b89f57d2a3ef97a34f1cc6",
+    "role": "mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Chinedu",
+    "lastName": "Nwafor",
+    "email": "patrickchinwafor@gmail.com",
+    "password": "a3d2f88439eeaee03ed7fa0dab51ca7c:2e2cc0bf86aeddc8e47cfd3138b1b7cc9caace43bcba7ac4fcae1fde0105839398ffd759d904981b0be69dfa72d2d23d2d10d1295cc7ad066e1c710c54aeb096",
+    "role": "mentee",
+    "confirmed": true
+  },
+  {
+    "firstName": "Chinedu",
+    "lastName": "Nwafor",
+    "email": "patrickchinfor@gmail.com",
+    "password": "50bd09e0023601cc9e2394b428ada3db:63fbc207dd8825d3e3afd86dda86c80c37cb9b9d4fc39c4805181b7582f1c687667b578f9a28c672b0399f733f7f63f5c64d70070fc1cb411bca5eb7ea80b55e",
+    "role": "mentee",
+    "confirmed": true
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "test21@gmail.com",
+    "password": "e16864e276e8cc2c6f0cf1907e6ab78e:781a4e09c91fa0bcdc3dc2933cef4fd5af9ea948407351b22f07b99993674a845c22a47ea71cfa15587205ecd458f562c96b819142e4e6fdf6a08787cc34ea64",
+    "role": "mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "JohnAA",
+    "lastName": "DoeAA",
+    "email": "John22Doe@gm.co",
+    "password": "59f92f618e9fdf708cb50abac3db3b75:bfad0d201d911207842c1d6bc58a30b15d271ce590cb4fa25e85e5fbf5ef593a9b8963b456550f61cd510dd956e1b78ec44f0c2f3908c5424a1a2ee34913bf34",
+    "role": "mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Hanan",
+    "lastName": "test",
+    "email": "hf@crack.org",
+    "password": "59f92f618e9fdf708cb50abac3db3b75:bfad0d201d911207842c1d6bc58a30b15d271ce590cb4fa25e85e5fbf5ef593a9b8963b456550f61cd510dd956e1b78ec44f0c2f3908c5424a1a2ee34913bf34",
+    "role": "mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Hanan",
+    "lastName": "Fadel",
+    "email": "fadel_hanan@yahoo.com",
+    "password": "e4a64e70ce8de857e2639fe4ffbfebf5:47c041af858c6522e996d4caaa9e4d7437af3d291ac8f0384a17b4236ac9b30787336d6c3718a0a6baecc6be1b75fc29aad6070c188ad136611c46958b047780",
+    "role": "Mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Hanan",
+    "lastName": "Fadel",
+    "email": "fadel_hanan123@yahoo.com",
+    "password": "f363fe97a90f4245896ed3177b82aa82:ff7a87e448bd3455e5cf487a8388cf397c55d4302631e922938a3c663bd88c36fa884f88a9a75cb0ae0a8c3d184368243793f00ee0e14e0172a8398c91e0c9d8",
+    "role": "Mentee",
+    "confirmed": false
+  },
+  {
+    "firstName": "Chinedu",
+    "lastName": "Nwafor",
+    "email": "patrickchwafor@gmail.com",
+    "password": "a7dd9ad5c4900ceeab2603a23c4e108a:15a0ac3f3e1e60fc1378629cf855b769c1289745754b3a2319af6f7e62606c08c2d8142b6614beb1ab1261d0aae8a7bf836965dfb78d4638dc214241dd44911e",
+    "role": "Mentee",
+    "confirmed": false
+  },
+  {
+
+    "role": "Mentee",
+    "confirmed": false
+  }
+]

@@ -1,0 +1,13 @@
+/* Footer */
+.footer {
+  padding: 20px;
+  background-color: #1e3d59;
+  color: #f6c90e;
+  text-align: center;
+  animation: fadeInUp 1s ease-out;
+}
+
+@keyframes fadeInUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
